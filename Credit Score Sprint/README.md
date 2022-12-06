@@ -1,4 +1,4 @@
-# credit_scoring
+# Credit Score
 
 ## Description
 
@@ -9,9 +9,7 @@ __Project Overview__
 - Determine if a customer's marital status and/or number of children impact default risk.
 
 ## Dependencies
-This project requires Python and the following Python libraries installed:
+This project requires Python libraries installed:
 
     NumPy
     Pandas
-
-You will also need to have software installed to run and execute an iPython Notebook.
