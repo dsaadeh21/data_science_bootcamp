@@ -1,6 +1,6 @@
 # data_science_bootcamp
 
-Collection of some programming assignments completed for Practicum's Data Scientist professional training program.
+A List of assignments completed for Practicum's Data Scientist professional training program.
 
 | Project Name  | Notebook      | Description   | Dependencies  | Sprint Number  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
