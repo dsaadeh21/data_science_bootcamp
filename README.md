@@ -17,7 +17,7 @@ A List of assignments completed for Practicum's Data Scientist professional trai
 | [machine_learning](https://github.com/renee127/data_science_bootcamp/tree/main/intro_to_ml) | [machine_learning.ipynb](https://github.com/renee127/data_science_bootcamp/blob/main/intro_to_ml/machine_learning.ipynb)  | Creat a ml model that recommends an appropriate plan based on data about the behavior of subscribers who've already switched (with accuracy > 75%)  | NumPy, Pandas, sklearn, sys | 6  |
 | [sql](https://github.com/renee127/data_science_bootcamp/tree/main/sql) | [sql.ipynb](https://github.com/renee127/data_science_bootcamp/blob/main/sql/sql.ipynb) | Identify top neighborhoods in terms of drop-offs for a new ride sharming company.  | NumPy, Pandas, matplotlib, seaborn, scipy  | 5  |
 | [hypothesis_testing](https://github.com/renee127/data_science_bootcamp/tree/main/hypothesis_testing) | [hypothesis_testing.ipynb](https://github.com/renee127/data_science_bootcamp/blob/main/hypothesis_testing/hypothesis_testing.ipynb) | Preliminary analysis of platform, genre, and ESRB ratings to determine any patterns that influence sales. | NumPy, Pandas, matplotlib, sciPy, seaborn| 4 |
-| [statistical_data_analysis](https://github.com/renee127/data_science_bootcamp/tree/main/statistical_data_analysis) | [statistical_data_analysis.ipynb](https://github.com/renee127/data_science_bootcamp/blob/main/statistical_data_analysis/statistical_data_analysis.ipynb) | Analysis of phone plans, revenue, and retetion to produce recommendations for the marketing team. | NumPy, Pandas, matplotlib, sciPy  | 3 |
+| [statistical_data_analysis](https://github.com/dsaadeh21/data_science_bootcamp/tree/main/Statistical%20Data%20Analysis) | [statistical_data_analysis.ipynb](https://github.com/dsaadeh21/data_science_bootcamp/blob/main/Statistical%20Data%20Analysis/Statistical%20Analysis%20.ipynb) | Analysis of phone plans, revenue, and retetion to produce recommendations for the marketing team. | NumPy, Pandas, matplotlib, sciPy  | 3 |
 | [exploratory_data_analysis](https://github.com/dsaadeh21/data_science_bootcamp/tree/main/Exploratory%20Data%20Analysis%20Sprint) | [exploratory_data_analysis.ipynb](https://github.com/dsaadeh21/data_science_bootcamp/blob/main/Exploratory%20Data%20Analysis%20Sprint/Exploratory%20Data%20Analysis.ipynb)  | Use EDA to study data collected over the last few years from online advertisements and determine which factors influence the price of a vehicle.  |  NumPy, Pandas, matplotlib  | 2  |
 | [credit_score](https://github.com/dsaadeh21/data_science_bootcamp/tree/main/Credit%20Score%20Sprint) | [15_credit_scoring_sprint_1.ipynb](https://github.com/dsaadeh21/data_science_bootcamp/blob/main/Credit%20Score%20Sprint/Credit%20Score.ipynb) | Create a credit score for potential customers for a loan examining marital status and number of children as features. | NumPy, Pandas | 1  |
 
@@ -25,6 +25,3 @@ Authors
 
 Dina Saadeh
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details
