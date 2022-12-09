@@ -8,7 +8,7 @@
 - 'Day' — day of the week
 
 # Goal
-Study the music preference by city. Test hypotheese and compare user behavior for two cities. 
+Study the music preference by city. Test hypotheses and compare user behavior for two cities. 
 
 # Libraries
 *pandas*
